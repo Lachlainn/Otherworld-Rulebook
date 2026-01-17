@@ -30,7 +30,7 @@ Starting dice: 2
 1. Magic Missile. A player or enemy loses all-but-one dice. This card is removed from play.
 2. Folk wisdom. "Nope" the last action. Discard this card. *This card can be played at any time.*
 3. Toil and Trouble. Summon your two imaginary sisters, Toil and Trouble, who both get 1 die each. You can place them whereever you want in the player circle. They don't get cups to conceal their dice, but they can perform any action a player can do (including vote). They vanish after they've had a turn. If it helps, make them little avatars. This card is *removed from the game* after play.
-+  Devil's deal. Discard: one other card for 1 dice, 3 other cards for 2 dice, or 5 other cards for 3 dice. Discard.
++ Devil's deal. Discard: one other card for 1 dice, 3 other cards for 2 dice, or 5 other cards for 3 dice. Discard.
 
 == Urchin. "Clumsy, Oafful Death"
 
@@ -63,7 +63,7 @@ Starting Dice: 2
 1. Gamlber's Fallacy: Change the rules of this round to either: Aces are no longer wild, Both 2s and Aces are wild, or every single dice is wild (which would be pretty silly, but hey.). Discard this card.
 2. Double or nothing: If you win a Calza challenge, get two dice instead of one. If you lose, you don't lose any dice. Discard this card.
 3. Snake eyes: If you roll snake eyes (two ones), show everyone, say "snake eyes!", and take another dice, and either dive for a discarded card or take two ability cards from the draw pile. You may reroll your dice. *This card can be played at any time.* This card is retained.
-+  Not dead (See below)
++ Not dead (See below)
 
 
 == Hunter. Peaceful Death."
@@ -151,7 +151,7 @@ This card does nothing. Its value is in sacrificing it for other cards. Unlike o
 + Helium has the lowest boiling point of any element! -alexandria
 + There are sixty-three extant species of heteromyids! - alexandria
 + Despite the name, Olympic gold medals have been made of silver, jade, and glass. - alexandira
-+ George VI of Britain and Nicholas II of Russia were such lookalikes that they sometimes pretended to be each other, to the endless irritation of their staff! - alexandria 
++ George VI of Britain and Nicholas II of Russia were such lookalikes that they sometimes pretended to be each other, to the endless irritation of their staff! - alexandria
 + MI5 was directly vetting candidates for employment & promotion at the BBC for 50 straight years, and that they were the moderating influence on how much vetting was being done, and this only ended after a 1986 Observer exposé - alexandria
 + hysteria was only removed from the DSM as an official diagnosis in 1980, which was the same year that borderline personality disorder was first added - v
 + fentanyl is one of the only synthetic opiates which can be synthesized at room temperature - v
