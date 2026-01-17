@@ -12,4 +12,6 @@ The aimed tone is something fun and improvisational, but I hope people are natur
 
 I write all this I don't even know if the game is any fun yet!
 
+That said, if you want to use my cards as a template for your cards, no attribution required :) it's the content I mostly care about
+
 \- Anna
