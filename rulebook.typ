@@ -13,7 +13,7 @@ Otherworld is a crowd-decision improv dungeon crawler where you never have to go
 
 = Setup
 
-+ All players select a character to play as, or make up their own. Feel free to name your charcater!
++ All players select a character to play as, or make up their own. Feel free to name your character!
 + Players should all fill out prompt cards. Write anything that comes to mind, and these are passed to the storyteller. If nothing comes to mind, put an animal, a vegetable and a normal RPG location (like a pub, a ferry crossing, a cool tree etc)
 + Agree on a last stand condition. This could be: we run out of cards in the discard pile, or everyone's had a go as storyteller. For first time players, I suggest using a coin and some paper to make a conflict tracker. Draw a line, put some points on that line, and move the coin along the line until you reach the end! #footnote[If you're the kind of person who values "planning", you could write locations or themes on each of those points. But that's veering in to GM territory!]
 
@@ -35,7 +35,7 @@ Honestly I need to beta test this before I give advice on this.
     If you were confused about player order before, I'm sure this will help maybe?
   ],
 )
-Modified perudo is played, alternating between each player (fig 1, blue guys) in a circle and the storyteller (fig 1, green). The storyteller always goes first, and the player next to the storyteller in the direction of play goes next.
+Modified Perudo is played, alternating between each player (fig 1, blue guys) in a circle and the storyteller (fig 1, green). The storyteller always goes first, and the player next to the storyteller in the direction of play goes next.
 For instance: 
 + Storyteller
 + Player 1
@@ -47,24 +47,24 @@ For instance:
 Besides the ability cards and the play order, the other modification from Perudo is the "Palefico" rule is removed.
 
 == Order of Play on Conflict Turn
-- Use OR draw an abilty card OR discard 3 cards to take a card from the discard pile.
+- Use OR draw a card OR discard 3 cards to take a card from the discard pile.
 - Then play normal Perudo (raise, dudo, calza etc.)
-And that's it! Note that some ability cards can be played at any time, this is not counted as using your "use or draw an abiity card" step.
+And that's it! Note that some ability cards can be played at any time, this is not counted as using your "use or draw a card" step.
 
 
 = Storyteller, Conflict Phase
 The storyteller is free to craft their own encounter. It's their job to try and make something fun, though try not to change the rules on the fly too much! I suggest ceremonially placing the Storyteller's normal cards in an envelope so they don't get mixed up.
 
 Storytellers may:
-- Role play as their own character, but posessed! (Definitely give them more dice than their starting dice, I reckon around 1 per player plus 1)
-- Use one of the premade enemy packs
+- Role play as their own character, but possessed! (Definitely give them more dice than their starting dice, I reckon around 1 per player plus 1)
+- Use one of the pre-made enemy packs
 - Use an unused player character
 - Go nuts and make their own character using cards from all over the deck.
 - Use pre-prepared homebrew I guess I'm not your mum.
 
 Before the conflict, they should establish:
 - Their character's number of dice
-- Thier character's kill loot
+- Their character's kill loot
 - Their character's chip damage loot (if any)
 - Their character's damage penalty (when the storyteller damages the player) (if any)
 For kill loot, I suggest cards associated with that monster, or extra dice or whatever. Negotiate with the players for what seems fair before the encounter begins, or give them a surprise! Not every conflict needs to be a boss fight with big loot!
@@ -81,10 +81,10 @@ After their possession the storyteller can choose to EITHER:
 == Secrecy
 In order to effectively beat the storyteller, players need to discretely communicate what dice they actually have. If the storyteller works out what you're talking, then they can't exactly not act on it.
 == Bribery
-Useless cards can be used as bribe tokens. Bribes can be announced at any time by any player. You can only bribe people to do things to do something they can perform immediately, ie. Chieftain playing the Justice card that can still only be played as their draw/play action on thei turn, so the bribe can only happen then. Once there's verbal agreement, and payment (in useless facts) changes hands, the agreed action must happen immediately. Storyteller is judge.
+Useless cards can be used as bribe tokens. Bribes can be announced at any time by any player. You can only bribe people to do things to do something they can perform immediately, ie. Chieftain playing the Justice card that can still only be played as their draw/play action on their turn, so the bribe can only happen then. Once there's verbal agreement, and payment (in useless facts) changes hands, the agreed action must happen immediately. Storyteller is judge.
 
 = Voting
 If odd number of total players, Storyteller abstains then tie breaks. If even number of total players, Storyteller votes. If ANY abstentions, Storyteller decides outcome.
 
 = Last Stand
-Just go around in a circle, and play Nomral Perudo against each other. No bosses, not possessions, just going Player 1, Player 2, PLayer 3 in a cirle, and Palefico is back (if you want it to be back). Last one standing gets to win the coolest resurrection (or, if they never died, to just leave the otherworld.)]
+Just go around in a circle, and play Normal Perudo against each other. No bosses, not possessions, just going Player 1, Player 2, PLayer 3 in a circle, and Palefico is back (if you want it to be back). Last one standing gets to win the coolest resurrection (or, if they never died, to just leave the otherworld.)]

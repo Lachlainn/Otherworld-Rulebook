@@ -2,7 +2,7 @@ Ever played Perudo and thought "hey could you make a TTRPG with nothing but D6s?
 
 Well they've already made that, it's called Pathfinder.
 
-But did you maybe also think: "this game of perudo is fun, but I sure wish I was competing against my mum pretending to be the mythical hero Cú Chulainn rather than my mum"?
+But did you maybe also think: "this game of Perudo is fun, but I sure wish I was competing against my mum pretending to be the mythical hero Cú Chulainn rather than my mum"?
 
 Hoo boy, do I have the project for you!
 

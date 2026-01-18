@@ -17,7 +17,7 @@ Starting dice: 2
 
 === Starter Ability Cards:
 
-1. War cry. Get an extra dice if you successfully dudo or calza on your first turn in a conflict. This card is retained.
+1. War cry. Get an extra dice if you successfully Dudo or Calza on your first turn in a conflict. This card is retained.
 2. Field medic. Prevent a player (but not yourself) from losing their final dice, then put this in the discard pile.
 3. Jump the gun. Play skips to your turn immediately, then place this in the discard pile. *This card can be played at any time.*
 
@@ -29,7 +29,7 @@ Starting dice: 2
 
 1. Magic Missile. A player or enemy loses all-but-one dice. This card is removed from play.
 2. Folk wisdom. "Nope" the last action. Discard this card. *This card can be played at any time.*
-3. Toil and Trouble. Summon your two imaginary sisters, Toil and Trouble, who both get 1 die each. You can place them whereever you want in the player circle. They don't get cups to conceal their dice, but they can perform any action a player can do (including vote). They vanish after they've had a turn. If it helps, make them little avatars. This card is *removed from the game* after play.
+3. Toil and Trouble. Summon your two imaginary sisters, Toil and Trouble, who both get 1 die each. You can place them wherever you want in the player circle. They don't get cups to conceal their dice, but they can perform any action a player can do (including vote). They vanish after they've had a turn. If it helps, make them little avatars. This card is *removed from the game* after play.
 + Devil's deal. Discard: one other card for 1 dice, 3 other cards for 2 dice, or 5 other cards for 3 dice. Discard.
 
 == Urchin. "Clumsy, Oafful Death"
@@ -72,7 +72,7 @@ Starting Dice: 2
 
 === Starter Ability Cards:
 
-+ Make your own luck: Shuffle the discard pile and take 5, look at them and place them whereever you like in the draw pile. Discard this card.
++ Make your own luck: Shuffle the discard pile and take 5, look at them and place them wherever you like in the draw pile. Discard this card.
 + Precision shot: Change one dice anywhere on the table to anything you like. This card can be played at any time. Discard this card.
 + Trap card. If you lose a challenge, say "you activated my trap card" and they also lose a dice. This card an be played at any time. Discard this card.
 + Gatherer. When another player discards one of your starter cards, reclaim it. This card can be played at any time. This card is retained.
@@ -86,7 +86,7 @@ Dice cap: raised to 6
 === Starter Ability Cards:
 
 + Call to Adventure: Discard 3 ability cards, gain 1 dice. This card is retained.
-+ Revelation: You have struggled in the Abyss. This is your turning point. You may replenish your dice to your starting dice, and withdraw all your starting cards no matter where they may be (exluding this one). This card is removed from play.
++ Revelation: You have struggled in the Abyss. This is your turning point. You may replenish your dice to your starting dice, and withdraw all your starting cards no matter where they may be (excluding this one). This card is removed from play.
 + Transformation: Discard one other card, and shuffle and take two cards from the discard pile. This card is discarded.
 + Atonement: Lose x of your dice in exchange for x dice of enemy/player damage. This cannot take their final die. This card is retained.
 + Not dead (See below)
@@ -95,7 +95,7 @@ Dice cap: raised to 6
 
 = Encounter Cards
 
-These are examples of encouters for the Storyteller to role play as.
+These are examples of encounters for the Storyteller to role play as.
 
 == Cú Chulainn
 
@@ -121,7 +121,7 @@ Category: Goon
 
 Aw!! Just a little guy!!! Maybe just double the dice and say that it's two faries.
 
-Special card: Fairie dust. Someone (talk amongst yourselvs )must hand the Storyteller one of their non-useless Ability Cards, and the Pixie plays it immediately.
+Special card: Fairie dust. Someone (talk amongst yourselves )must hand the Storyteller one of their non-useless Ability Cards, and the Pixie plays it immediately.
 
 Chip loot: none
 
@@ -131,7 +131,7 @@ Kill loot: Draw 3 cards.
 
 Category: Miniboss
 
-- Startin dice: 1 per player
+- Starting dice: 1 per player
 - Ability cards: 6
 
 Special card: skip a turn at the cost of an ability card. this card is retained.
@@ -158,7 +158,7 @@ This card does nothing. Its value is in sacrificing it for other cards. Unlike o
 + jack has a jackussy - ???
 + The genetic material for every single one of the eggs in any uterus wielders ovaries was formed inside their grandmother - v
 + Despite Rashōmon-style being shorthand for a story in which every perspective has a slightly different version of events, the original short story Rashōmon contains no such element, this instead being taken from In a Bamboo Grove, also by Ryūnosuke Akutagawa. - alexandria
-+ california is named after a fictional islamic kingdom from a 16th centuary spanish novel - Jacob/ DuckBillHatypus
++ california is named after a fictional islamic kingdom from a 16th Century spanish novel - Jacob/ DuckBillHatypus
 + A factoid isn’t a fun fact but actually something that is false and peddled as a fun fact - Jack
 + Birmingham has more canals than venice - Eilidh
 
