@@ -60,7 +60,7 @@ Starting Dice: 2
 
 === Starter Ability Cards:
 
-1. Gamlber's Fallacy: Change the rules of this round to either: Aces are no longer wild, Both 2s and Aces are wild, or every single dice is wild (which would be pretty silly, but hey.). Discard this card.
+1. Gambler's Fallacy: Change the rules of this round to either: Aces are no longer wild, Both 2s and Aces are wild, or every single dice is wild (which would be pretty silly, but hey.). Discard this card.
 2. Double or nothing: If you win a Calza challenge, get two dice instead of one. If you lose, you don't lose any dice. Discard this card.
 3. Snake eyes: If you roll snake eyes (two ones), show everyone, say "snake eyes!", and take another dice, and either dive for a discarded card or take two ability cards from the draw pile. You may reroll your dice. *This card can be played at any time.* This card is retained.
 + Not dead (See below)
