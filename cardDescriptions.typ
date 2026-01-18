@@ -6,10 +6,10 @@ Starting dice: 2
 
 === Starter Ability cards:
 
-1. Herbal clense. Reset one player's dice count to their starting amount, then put this in the discard pile.
+1. Herbal cleanse. Reset one player's dice count to their starting amount, then put this in the discard pile.
 2. Mind-wipe Serum. Make a player forget a thing for the rest of the game. If they don't play along at any point, you get one of their dice. This card is *removed from the game* after play.
-3. Therapy Session. Look at a player's ability cards, and then take one, if you can come up with a reasonable argument for doing so. This card is discarded.
-4. Intervention. Go through and take a playing card from the GM's encounter discard pile. *This card is removed from the game after play*.
+3. Intervention. Look at a player's ability cards, and then take one, if you can come up with a reasonable argument for doing so. This card is discarded.
+4. Therapy Session. Go through and take a playing card from the Storyteller's encounter discard pile. *This card is removed from the game after play*.
 
 == Warrior. "Violent, War Death."
 
@@ -40,8 +40,8 @@ Starting Dice: 1
 
 1. Robbin' good. Steal a die from someone who has more than their starting dice. This card is retained.
 2. Miscreantry. Reroll as many dice on the table as you want, then go back to 1 dice after the count phase. *This card can be played at any time.*
-3. Quick Learner. Discard two other ability cards OR a dice in order to go through, look at and take any one card from the discard pile. This card is retained.
-4. Go Easy on the Kid. Unilaterally overrule a "not in character" argument towards yourself, then discard this card. *This card can be played at any time.*
+3. Quick Learner. Discard two other ability cards in order to go through, look at and take any one card from the discard pile. This card is retained.
+4. Go Easy on the Kid. Unilaterally overrule a "calling bull" card played against you, then discard this card. *This card can be played at any time.*
 
 == Chieftain. "Prideful, Honourless Death."
 
