@@ -14,6 +14,8 @@ Inspiration for the name and loose setting for this game is drawn from Irish and
 
 Thanks to everyone who beta tested and provided fun facts! May your names live on for 1000 years in this glorious manual.
 
+Cheers to \@HauntedLoaf for support with Typst!
+
 All else by Lachlainn Anna Hayes.
 
 = License stuff boo boring
