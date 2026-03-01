@@ -21,7 +21,7 @@
 #set page(background: box(fill: bgColour, height: 100%, width: 100%))
 
 //the witch cards
-#let makeCard(title, subtitle, imageLocation, content) = [
+#let makeCard(tColour, sColour, title, subtitle, imageLocation, content) = [
   #block(
     fill: tColour,
     width: 100%,
@@ -53,6 +53,7 @@
 ]
 
 #makeCard(
+    tColour, sColour,
   [Witch],
   [Tragic, Burning Death],
   "cardPictures/witch_icon.png",
@@ -65,6 +66,7 @@
 ) #pb
 
 #makeCard(
+  tColour, sColour,
   [Magic Missile],
   [Powerful Last Resort],
   "placeholder.png",
@@ -72,6 +74,7 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Folk wisdom],
   [No-nonsense Pillar of the Community],
   "placeholder.png",
@@ -81,6 +84,7 @@
 #pb
 
 #makeCard(
+    tColour, sColour,
   [Toil & Trouble],
   [O, How You Miss their Squabbling],
   "placeholder.png",
@@ -90,6 +94,7 @@
 #pb
 
 #makeCard(
+    tColour, sColour,
   [Devil's deal],
   [Satan? Like, the food?],
   "placeholder.png",
@@ -109,6 +114,7 @@
 #pb
 
 #makeCard(
+    tColour, sColour,
   [Druid],
   [Peaceful, Contented Death],
   "cardPictures/druid_icon.png",
@@ -122,6 +128,7 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Herbal Cleanse],
   [Probably good for you!],
   "placeholder.png",
@@ -131,6 +138,7 @@
 #pb
 
 #makeCard(
+    tColour, sColour,
   [Mind-wipe Serum],
   [Probably bad for you!],
   "placeholder.png",
@@ -139,6 +147,7 @@
 #pb
 
 #makeCard(
+    tColour, sColour,
   [Intervention],
   [Seriously, stop doing that.],
   "placeholder.png",
@@ -146,6 +155,7 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Therapy Session],
   [Licence Schmicence],
   ph,
@@ -153,13 +163,14 @@
 ) #pb
 
 //set next colour pallet
-#let tColour = rgb("#c35b5b")
+#let tColour = rgb("#d78c8c")
 #let sColour = rgb("#ffc2c2")
 #let bgColour = rgb("#eab0b0")
 #set page(background: box(fill: bgColour, height: 100%, width: 100%))
 
 //warrior time!!
 #makeCard(
+    tColour, sColour,
   [Warrior],
   [Violent, War Death],
   "cardPictures/warrior_icon.png",
@@ -171,6 +182,7 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [War Cry],
   [That's like. Really loud.],
   ph,
@@ -178,13 +190,14 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Field Medic],
   [You might want to bite down on something],
   ph,
   [Prevent a player (but not yourself) from losing their final dice. #dc]
 ) #pb
 
-#makeCard(
+#makeCard(   tColour, sColour,
   [Jump the Gun],
   [Last one into battle's a rotten egg!],
   ph,
@@ -193,7 +206,13 @@
 
 //urchinn, my favourite!
 
+#let tColour = rgb("#9feaeb")
+#let sColour = rgb("#a6c7d3")
+#let bgColour = rgb("#d5ebf4")
+#set page(background: box(fill: bgColour, height: 100%, width: 100%))
+
 #makeCard(
+    tColour, sColour,
   [Urchin],
   [Clumsy, Oafful Death],
   ph,
@@ -206,6 +225,7 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Robbin' Good],
   [Steal from the rich],
   ph,
@@ -213,6 +233,7 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Miscreantry],
   [Ya little scamp],
   ph,
@@ -220,13 +241,14 @@
 ) #pb
 
 #makeCard(
+    tColour, sColour,
   [Quick Learner],
   [Kid's a fast 'un],
   ph,
   [Discard two cards in order to dumpster dive for one card. #keep]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Go Easy on the Kid],
   [Awww, don't make 'em cry],
   ph,
@@ -235,7 +257,12 @@
 
 //Chieftain
 
-#makeCard(
+#let tColour = rgb("#f17fd9")
+#let sColour = rgb("#eeb3dd")
+#let bgColour = rgb("#fce0fe")
+#set page(background: box(fill: bgColour, height: 100%, width: 100%))
+
+#makeCard(  tColour, sColour,
   [Chieftain],
   [Prideful, Honourless Death],
   ph,
@@ -246,28 +273,28 @@
   - Think tank]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Smooth Talker],
   [You go Forwards, we'll go Backwards],
   ph,
   [Discard three cards to unilaterally overrule a party decision. #keep]
 ) #pb
 
-#makeCard(
+#makeCard(   tColour, sColour,
   [Policy U-Turn],
   [Strong and Stable],
   ph,
   [Whatever just happened, the opposite actually just happened. #dc #at ]
 ) #pb 
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Justice],
   ['Cuz I Say So],
   ph,
   [Discard 5 cards and redistribute ALL other players dice as you see fit. #keep]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Think Tank],
   [You're in the pocket of Big Afterlife!],
   ph,
@@ -275,8 +302,13 @@
 )
 
 //Sailor
+
+#let tColour = rgb("#8998e2")
+#let sColour = rgb("#c6b2f1")
+#let bgColour = rgb("#d8d8f7")
+#set page(background: box(fill: bgColour, height: 100%, width: 100%))
 #pb
-#makeCard(
+#makeCard(  tColour, sColour,
   [Sailor],
   [Not dead, just sailed to sea with a silver branch],
   ph,
@@ -288,21 +320,21 @@
   - Not Dead]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Gambler's Fallacy],
   [This is the one!],
   ph,
   [Change any number of dice numbers to "wild" or "no longer wild" for the rest of the round. #dc ]
 ) #pb 
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Double or Nothing],
   [Safe bet, honestly],
   ph,
   [If you win a _Calza_ challenge, get two dice instead of one. If you lose, you don't lose any dice. #dc ]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Snake Eyes],
   [Snake eyeeeeees!!!!!],
   ph,
@@ -317,8 +349,12 @@
 ) #pb
 
 //Hunter
+#let tColour = rgb("#e289ca")
+#let sColour = rgb("#c086c0")
+#let bgColour = rgb("#ffe9f8")
+#set page(background: box(fill: bgColour, height: 100%, width: 100%))
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Hunter],
   [Peaceful Death],
   ph,
@@ -329,7 +365,7 @@
   - Gatherer]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Make your own Luck],
   [I don't believe in Luck],
   ph,
@@ -338,21 +374,21 @@
   + Place wherever you like in the draw pile. #dc]
 ) #pagebreak()
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Precision Shot],
   [Nice shot!],
   ph,
   [Change ONE dice anywhere on the table to anything you like. #at #dc]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Trap card],
   [You've activated my trap card!],
   ph,
   [If you lose a challenge, discard a card to make the challenger also lose a dice. #at #keep]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Gatherer],
   [Not just a hunter],
   ph,
@@ -361,7 +397,12 @@
 
 //Great hero
 
-#makeCard(
+#let tColour = rgb("#f4e89e")
+#let sColour = rgb("#c0b686")
+#let bgColour = rgb("#fffce9")
+#set page(background: box(fill: bgColour, height: 100%, width: 100%))
+
+#makeCard(  tColour, sColour,
   [Great Hero],
   [Not dead, just found a Special Apple],
   ph,
@@ -373,14 +414,14 @@
   - Not Dead]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Call to Adventure],
   [There's a Yearning in your Heart],
   ph,
   [Discard 3 ability cards, gain 1 dice. #keep]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Revelation],
   [Did anyone else see this coming?],
   ph,
@@ -389,7 +430,7 @@ your dice to your starting dice, and reclaim to your hand *all* of your starting
 may be (excluding this one). #rm]
 ) #pb
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Transformation],
   [Turn and face the strange],
   ph,
@@ -398,7 +439,7 @@ may be (excluding this one). #rm]
 ) #pb
 
 
-#makeCard(
+#makeCard(  tColour, sColour,
   [Atonement],
   [You just had to go and be a hero, didn't you?],
   ph,
