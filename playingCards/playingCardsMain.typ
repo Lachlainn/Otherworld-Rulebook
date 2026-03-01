@@ -84,7 +84,7 @@
   [Toil & Trouble],
   [O, How You Miss their Squabbling],
   "placeholder.png",
-  [Create two fake players, each with 1 dice and controlled by you. They can do everything a player can, but they dissapear after they've finished a turn. #rm #at],
+  [Create two fake players, each with 1 dice and controlled by you. They can do everything a player can (even vote!), but they dissapear after they've finished a turn. #rm #at],
 )
 
 #pb
@@ -151,6 +151,12 @@
   ph,
   [Claim a card from the Storyteller's discard pile. #rm],
 ) #pb
+
+//set next colour pallet
+#let tColour = rgb("#c35b5b")
+#let sColour = rgb("#ffc2c2")
+#let bgColour = rgb("#eab0b0")
+#set page(background: box(fill: bgColour, height: 100%, width: 100%))
 
 //warrior time!!
 #makeCard(
