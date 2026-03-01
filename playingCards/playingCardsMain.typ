@@ -13,7 +13,7 @@
 #let pb = pagebreak()
 #let ph = "placeholder.png"
 
-#let rm = [#linebreak()*This card is removed from play.*]
+#let rm = [#linebreak()*This card is removed from play after use.*]
 #let at = [#linebreak()*This card can be played at any time.*]
 #let dc = [#linebreak()*Discard.*]
 #let keep = [#linebreak()*This card is retained.*]
@@ -42,7 +42,7 @@
     #box(
       image(
         imageLocation,
-        width: 100%,
+        height: 30%,
       ),
       stroke: sColour,
       clip: true,
@@ -55,7 +55,7 @@
 #makeCard(
   [Witch],
   [Tragic, Burning Death],
-  "placeholder.png",
+  "cardPictures/witch_icon.png",
   [Starter Cards:
     - Magic Missile
     - Folk Wisdom
@@ -111,7 +111,7 @@
 #makeCard(
   [Druid],
   [Peaceful, Contented Death],
-  ph,
+  "cardPictures/druid_icon.png",
   [Starting dice: 2 #linebreak()
   Cards:
   - Herbal Cleanse
@@ -156,7 +156,7 @@
 #makeCard(
   [Warrior],
   [Violent, War Death],
-  ph,
+  "cardPictures/warrior_icon.png",
   [Starting dice: 2 #linebreak()
   Cards:
   - War Cry
@@ -239,3 +239,164 @@
   - Justice
   - Think tank]
 ) #pb
+
+#makeCard(
+  [Smooth Talker],
+  [You go Forwards, we'll go Backwards],
+  ph,
+  [Discard three cards to unilaterally overrule a party decision. #keep]
+) #pb
+
+#makeCard(
+  [Policy U-Turn],
+  [Strong and Stable],
+  ph,
+  [Whatever just happened, the opposite actually just happened. #dc #at ]
+) #pb 
+
+#makeCard(
+  [Justice],
+  ['Cuz I Say So],
+  ph,
+  [Discard 5 cards and redistribute ALL other players dice as you see fit. #keep]
+) #pb
+
+#makeCard(
+  [Think Tank],
+  [You're in the pocket of Big Afterlife!],
+  ph,
+  [Reshuffle all discarded cards into the draw pile. #at #rm  ]
+)
+
+//Sailor
+#pb
+#makeCard(
+  [Sailor],
+  [Not dead, just sailed to sea with a silver branch],
+  ph,
+  [Starting dice: 2 #linebreak()
+  Cards:
+  - Gambler's Fallacy
+  - Double or Nothing
+  - Snake eyes
+  - Not Dead]
+) #pb
+
+#makeCard(
+  [Gambler's Fallacy],
+  [This is the one!],
+  ph,
+  [Change any number of dice numbers to "wild" or "no longer wild" for the rest of the round. #dc ]
+) #pb 
+
+#makeCard(
+  [Double or Nothing],
+  [Safe bet, honestly],
+  ph,
+  [If you win a _Calza_ challenge, get two dice instead of one. If you lose, you don't lose any dice. #dc ]
+) #pb
+
+#makeCard(
+  [Snake Eyes],
+  [Snake eyeeeeees!!!!!],
+  ph,
+  [If you roll snake eyes (two ones):
+  + show everyone
+  + say "snake eyes!"
+  + take another dice
+  then either:
+  - Dive for a discarded card
+  - Take two cards
+  You may also reroll your dice.]
+) #pb
+
+//Hunter
+
+#makeCard(
+  [Hunter],
+  [Peaceful Death],
+  ph,
+  [Starting dice: 2 #linebreak() Cards:
+  - Make your own Luck
+  - Precision Shot
+  - Trap card
+  - Gatherer]
+) #pb
+
+#makeCard(
+  [Make your own Luck],
+  [I don't believe in Luck],
+  ph,
+  [+ Shuffle the discard pile.
+  + Take 5 cards.
+  + Place wherever you like in the draw pile. #dc]
+) #pagebreak()
+
+#makeCard(
+  [Precision Shot],
+  [Nice shot!],
+  ph,
+  [Change ONE dice anywhere on the table to anything you like. #at #dc]
+) #pb
+
+#makeCard(
+  [Trap card],
+  [You've activated my trap card!],
+  ph,
+  [If you lose a challenge, discard a card to make the challenger also lose a dice. #at #keep]
+) #pb
+
+#makeCard(
+  [Gatherer],
+  [Not just a hunter],
+  ph,
+  [When a player discards one of your starter cards, you may reclaim it. #at #keep]
+) #pb
+
+//Great hero
+
+#makeCard(
+  [Great Hero],
+  [Not dead, just found a Special Apple],
+  ph,
+  [Starting Dice: 3 #linebreak() Dice cap: raised to 6 #linebreak() Starter ability cards:
+  - Call to Adventure
+  - Revelation
+  - Transformation
+  - Atonement
+  - Not Dead]
+) #pb
+
+#makeCard(
+  [Call to Adventure],
+  [There's a Yearning in your Heart],
+  ph,
+  [Discard 3 ability cards, gain 1 dice. #keep]
+) #pb
+
+#makeCard(
+  [Revelation],
+  [Did anyone else see this coming?],
+  ph,
+  [ You have struggled in the Abyss. This is your turning point. You may replenish 
+your dice to your starting dice, and reclaim to your hand *all* of your starting cards no matter where they 
+may be (excluding this one). #rm]
+) #pb
+
+#makeCard(
+  [Transformation],
+  [Turn and face the strange],
+  ph,
+  [Discard one other card, shuffle the discard pile, then take the top two cards. #dc]
+
+) #pb
+
+
+#makeCard(
+  [Atonement],
+  [You just had to go and be a hero, didn't you?],
+  ph,
+  [Lose x of your dice in exchange for x dice of enemy/player damage. This 
+cannot take their final die. #keep]
+
+)
